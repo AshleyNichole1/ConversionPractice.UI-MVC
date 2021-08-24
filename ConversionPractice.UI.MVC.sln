@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2DE05BC7-C086-44FB-8270-2B10A86836E0}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversionPractice.MVC", "..\ConversionPractice.MVC\ConversionPractice.MVC.csproj", "{7826E32F-A4FB-4C5B-A6D1-83F30138520E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7826E32F-A4FB-4C5B-A6D1-83F30138520E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7826E32F-A4FB-4C5B-A6D1-83F30138520E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7826E32F-A4FB-4C5B-A6D1-83F30138520E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7826E32F-A4FB-4C5B-A6D1-83F30138520E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F152F2B6-AB82-43F2-B3FF-D3D24702F687}
+	EndGlobalSection
+EndGlobal
